@@ -1,4 +1,4 @@
-package main;
+package introductiontocollections;
 
 import java.util.*;
 
@@ -15,6 +15,7 @@ public class Car {
 	}
 
 	public static void main(String[] args) {
+
 		Car[] cars = { new Car("BMW", 12000, "red"), new Car("Audi", 7777, "blue"), new Car("Skoda", 33000, "grey"),
 				new Car("Suzuki", 4000, "green"), new Car("Citroen", 22222, "white"),
 				new Car("Renault", 9999, "yellow"), new Car("Mercedes", 44444, "black"),
