@@ -3,7 +3,8 @@ package annotations;
 import java.lang.annotation.*;
 
 @Documented
-@Target(value = ElementType.METHOD)
+@Inherited
+@Target({ElementType.METHOD, ElementType.TYPE})
 @Retention(RetentionPolicy.RUNTIME)
 public @interface CalcAnnotations {
 
