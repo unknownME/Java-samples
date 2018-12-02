@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"annotations"},{"l":"collections_part1"},{"l":"collections_part2"},{"l":"introductiontocollections"},{"l":"io_nio"},{"l":"reflection"},{"l":"regulars_and_date"},{"l":"strings"}]
