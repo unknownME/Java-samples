@@ -22,7 +22,7 @@ public class Bird implements Serializable {
 	public void setColor(String color) {
 		this.color = color;
 	}
-
+	
 	public String toString() {
 		return "The name of dird is: " + name + " AND THE COLOR IS: " + color + " and the size in centimeters is: "
 				+ SIZE;
