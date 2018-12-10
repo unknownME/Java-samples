@@ -6,5 +6,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/krivobok/Desktop/jaxb-ri/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/krivobok/Desktop/jaxb-ri/lib/jaxb-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/krivobok/Desktop/jaxb-ri/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/krivobok/Desktop/jaxb-ri/lib/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/krivobok/Desktop/jaxb-ri/lib/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/krivobok/Desktop/jaf-1.1.1/activation.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
